@@ -1,0 +1,301 @@
+product_id,product_name,category,price,stock
+1,Boat Earbuds,Fashion,91705.17,661
+2,Mixer Grinder,Sports,39620.18,1359
+3,Football,Electronics,53136.05,525
+4,Face Wash,Beauty,76995.81,238
+5,Mixer Grinder,Electronics,112603.97,320
+6,Mixer Grinder,Home,48858.32,1339
+7,Pressure Cooker,Groceries,100241.62,1081
+8,Smart TV,Sports,117311.6,159
+9,Notebook,Electronics,5551.69,1001
+10,Face Wash,Sports,82470.79,115
+11,Kurta,Groceries,81408.85,644
+12,Mixer Grinder,Sports,23884.85,1064
+13,Mixer Grinder,Electronics,26326.78,214
+14,Football,Sports,4574.77,603
+15,Rice Bag,Sports,26901.23,631
+16,Rice Bag,Groceries,53665.11,1005
+17,Mixer Grinder,Groceries,65287.27,68
+18,Pressure Cooker,Fashion,100727.52,1440
+19,Boat Earbuds,Groceries,25640.59,1299
+20,Face Wash,Home,28384.23,1048
+21,Cricket Bat,Beauty,21682.93,491
+22,Laptop,Electronics,51891.69,930
+23,Rice Bag,Home,106488.4,959
+24,Yoga Mat,Beauty,97128.44,951
+25,Shoes,Home,24288.67,546
+26,Face Wash,Fashion,93639.76,18
+27,Notebook,Home,83450.78,594
+28,Face Wash,Fashion,5858.04,1283
+29,Saree,Beauty,74941.47,1298
+30,Laptop,Sports,25091.47,364
+31,Smart TV,Electronics,57524.46,423
+32,Kurta,Home,54044.42,666
+33,Yoga Mat,Sports,19521.05,235
+34,Laptop,Electronics,67676.58,1086
+35,Yoga Mat,Fashion,13531.83,1493
+36,Saree,Fashion,81820.96,484
+37,Notebook,Sports,104016.17,344
+38,Saree,Groceries,39590.67,1222
+39,Yoga Mat,Sports,43282.91,974
+40,Shoes,Sports,95586.07,1251
+41,Notebook,Books,19986.28,1086
+42,Yoga Mat,Books,119898.32,1288
+43,Samsung Phone,Sports,50188.4,85
+44,Laptop,Books,43252.1,735
+45,Cricket Bat,Fashion,46084.03,502
+46,Smart TV,Electronics,3074.79,436
+47,Samsung Phone,Books,92268.41,790
+48,Football,Books,81949.37,1451
+49,Kurta,Sports,56136.09,131
+50,Football,Electronics,1778.23,704
+51,Laptop,Electronics,5432.96,1101
+52,Mixer Grinder,Groceries,119622.62,944
+53,Shoes,Beauty,98239.24,1200
+54,Kurta,Groceries,32631.78,797
+55,Kurta,Sports,5243.69,647
+56,Rice Bag,Beauty,88542.02,1498
+57,Samsung Phone,Groceries,54516.92,1082
+58,Face Wash,Home,107844.62,423
+59,Face Wash,Home,23494.43,938
+60,Face Wash,Books,105198.64,154
+61,Football,Home,61404.36,31
+62,Rice Bag,Sports,106492.7,667
+63,Boat Earbuds,Beauty,86017.3,1320
+64,Rice Bag,Electronics,32430.13,1015
+65,Kurta,Home,67561.73,1200
+66,Pressure Cooker,Beauty,62841.25,436
+67,Cricket Bat,Fashion,49205.65,841
+68,Pressure Cooker,Beauty,43377.58,201
+69,Kurta,Sports,49716.76,518
+70,Boat Earbuds,Groceries,107275.62,595
+71,Kurta,Sports,4720.93,1329
+72,Mixer Grinder,Groceries,3234.29,1457
+73,Shoes,Fashion,46851.33,963
+74,Football,Groceries,100233.39,710
+75,Saree,Sports,1843.79,1156
+76,Football,Groceries,33852.34,849
+77,Boat Earbuds,Beauty,101675.25,409
+78,Smart TV,Fashion,10771.53,1321
+79,Mixer Grinder,Home,59335.38,385
+80,Saree,Home,107344.43,381
+81,Pressure Cooker,Beauty,30423.39,159
+82,Cricket Bat,Books,62107.36,460
+83,Football,Electronics,65396.9,597
+84,Shoes,Home,108523.98,945
+85,Cricket Bat,Groceries,66742.47,1374
+86,Boat Earbuds,Sports,63055.93,18
+87,Samsung Phone,Books,76030.0,1392
+88,Face Wash,Home,75807.74,1045
+89,Rice Bag,Books,108241.57,1233
+90,Yoga Mat,Fashion,48905.44,1272
+91,Laptop,Books,115855.27,442
+92,Face Wash,Home,11419.35,1312
+93,Yoga Mat,Electronics,30363.47,591
+94,Laptop,Beauty,59935.96,1188
+95,Cricket Bat,Beauty,79532.54,1239
+96,Football,Fashion,37180.75,921
+97,Saree,Fashion,35358.05,451
+98,Mixer Grinder,Groceries,6871.8,436
+99,Saree,Beauty,113386.07,170
+100,Laptop,Electronics,73808.74,1024
+101,Shoes,Sports,95152.45,531
+102,Pressure Cooker,Beauty,100133.27,417
+103,Cricket Bat,Electronics,15836.14,928
+104,Face Wash,Groceries,37235.07,614
+105,Mixer Grinder,Books,12976.61,492
+106,Face Wash,Home,115067.42,906
+107,Cricket Bat,Electronics,97225.86,63
+108,Cricket Bat,Sports,100862.73,1214
+109,Notebook,Electronics,36237.65,625
+110,Cricket Bat,Home,31303.42,596
+111,Boat Earbuds,Books,14711.05,1261
+112,Yoga Mat,Electronics,81624.07,81
+113,Pressure Cooker,Electronics,46813.89,391
+114,Smart TV,Sports,35702.6,1454
+115,Kurta,Books,110243.61,693
+116,Yoga Mat,Fashion,8947.58,735
+117,Smart TV,Sports,109650.28,1423
+118,Saree,Books,61844.46,985
+119,Samsung Phone,Sports,64838.17,787
+120,Samsung Phone,Home,21764.67,150
+121,Mixer Grinder,Beauty,87507.38,404
+122,Saree,Fashion,62169.95,195
+123,Samsung Phone,Sports,84474.44,182
+124,Yoga Mat,Beauty,33256.42,340
+125,Face Wash,Sports,60426.27,1291
+126,Rice Bag,Sports,55222.03,569
+127,Notebook,Beauty,79163.48,1385
+128,Smart TV,Sports,68684.26,1365
+129,Kurta,Books,61397.25,429
+130,Shoes,Sports,68268.62,1117
+131,Notebook,Groceries,61757.12,939
+132,Face Wash,Electronics,6830.42,244
+133,Boat Earbuds,Electronics,85864.56,49
+134,Smart TV,Books,94318.97,1085
+135,Saree,Sports,82490.11,1213
+136,Saree,Beauty,70126.27,355
+137,Boat Earbuds,Groceries,98738.45,947
+138,Saree,Groceries,58306.39,304
+139,Football,Electronics,12208.59,469
+140,Notebook,Beauty,21673.07,921
+141,Smart TV,Sports,108898.53,446
+142,Laptop,Sports,7335.53,67
+143,Yoga Mat,Groceries,6288.31,1334
+144,Rice Bag,Home,115765.78,661
+145,Pressure Cooker,Electronics,77107.41,701
+146,Shoes,Books,106928.77,1114
+147,Face Wash,Home,88104.7,233
+148,Mixer Grinder,Beauty,35178.34,384
+149,Samsung Phone,Books,51534.98,1278
+150,Notebook,Home,19527.56,1044
+151,Smart TV,Books,77368.32,243
+152,Laptop,Electronics,48753.17,45
+153,Face Wash,Beauty,107721.76,889
+154,Cricket Bat,Beauty,76734.15,1408
+155,Smart TV,Groceries,25428.53,579
+156,Shoes,Fashion,21676.85,644
+157,Laptop,Fashion,25241.43,259
+158,Kurta,Books,95155.4,341
+159,Kurta,Books,88799.65,1097
+160,Notebook,Beauty,62784.55,975
+161,Shoes,Beauty,30945.59,922
+162,Football,Electronics,47083.7,1247
+163,Football,Fashion,112632.46,185
+164,Mixer Grinder,Sports,76206.07,907
+165,Samsung Phone,Home,119361.51,1070
+166,Samsung Phone,Electronics,81059.92,437
+167,Samsung Phone,Books,105425.92,793
+168,Smart TV,Electronics,72822.36,256
+169,Face Wash,Beauty,56623.03,1414
+170,Laptop,Groceries,65644.12,913
+171,Mixer Grinder,Groceries,36924.86,1393
+172,Laptop,Fashion,39880.49,930
+173,Yoga Mat,Electronics,2091.81,1447
+174,Cricket Bat,Electronics,110324.49,1128
+175,Football,Home,114708.69,549
+176,Saree,Sports,61227.21,1338
+177,Yoga Mat,Sports,46193.25,123
+178,Rice Bag,Groceries,55403.28,281
+179,Laptop,Groceries,86463.11,220
+180,Saree,Sports,42149.91,679
+181,Boat Earbuds,Beauty,77515.96,801
+182,Yoga Mat,Beauty,36640.21,144
+183,Yoga Mat,Groceries,91579.55,190
+184,Face Wash,Beauty,54436.93,917
+185,Laptop,Sports,109047.84,1401
+186,Laptop,Groceries,112451.92,1480
+187,Smart TV,Books,61751.36,276
+188,Football,Electronics,106285.1,24
+189,Laptop,Electronics,105934.6,282
+190,Rice Bag,Electronics,78487.81,873
+191,Saree,Beauty,83425.89,938
+192,Saree,Home,34570.79,1145
+193,Cricket Bat,Books,74290.39,256
+194,Face Wash,Beauty,106373.02,231
+195,Boat Earbuds,Groceries,76885.46,630
+196,Pressure Cooker,Electronics,95847.73,1104
+197,Rice Bag,Sports,66359.63,788
+198,Samsung Phone,Groceries,49569.72,978
+199,Notebook,Beauty,88414.99,147
+200,Pressure Cooker,Sports,10891.92,74
+201,Samsung Phone,Books,82674.3,655
+202,Pressure Cooker,Groceries,16137.41,381
+203,Notebook,Electronics,58774.31,705
+204,Football,Groceries,104184.28,250
+205,Laptop,Beauty,96803.0,717
+206,Notebook,Home,18888.7,97
+207,Shoes,Beauty,108487.88,488
+208,Notebook,Groceries,103069.86,277
+209,Samsung Phone,Home,41452.9,688
+210,Yoga Mat,Beauty,43470.57,1314
+211,Face Wash,Electronics,20623.74,1276
+212,Laptop,Fashion,31384.93,635
+213,Football,Electronics,88618.89,713
+214,Football,Sports,101446.16,1365
+215,Boat Earbuds,Home,113232.37,1057
+216,Face Wash,Fashion,26523.38,832
+217,Laptop,Sports,71803.13,634
+218,Boat Earbuds,Sports,53520.34,1433
+219,Shoes,Electronics,110487.99,556
+220,Smart TV,Electronics,6695.94,1086
+221,Football,Fashion,97657.73,694
+222,Face Wash,Books,39319.42,616
+223,Mixer Grinder,Home,110730.34,807
+224,Football,Groceries,40085.2,440
+225,Boat Earbuds,Electronics,82591.59,1104
+226,Samsung Phone,Home,112424.26,589
+227,Boat Earbuds,Home,74228.17,37
+228,Saree,Home,108452.13,676
+229,Boat Earbuds,Fashion,26953.01,822
+230,Yoga Mat,Books,19844.22,1206
+231,Pressure Cooker,Electronics,17843.86,1227
+232,Notebook,Groceries,740.5,573
+233,Saree,Beauty,43478.01,1383
+234,Face Wash,Groceries,20789.99,1017
+235,Face Wash,Sports,86247.41,1066
+236,Samsung Phone,Sports,62458.93,1041
+237,Boat Earbuds,Sports,104928.9,1273
+238,Smart TV,Fashion,78486.25,1192
+239,Smart TV,Fashion,65407.65,1348
+240,Mixer Grinder,Books,65112.59,715
+241,Football,Groceries,64103.21,1321
+242,Notebook,Groceries,30315.28,462
+243,Samsung Phone,Sports,117766.72,962
+244,Boat Earbuds,Electronics,21228.89,378
+245,Yoga Mat,Groceries,104691.73,578
+246,Boat Earbuds,Books,109422.39,1488
+247,Kurta,Electronics,19173.83,214
+248,Mixer Grinder,Electronics,89397.38,1172
+249,Mixer Grinder,Home,81918.21,379
+250,Boat Earbuds,Beauty,2679.14,393
+251,Saree,Groceries,2922.08,725
+252,Face Wash,Sports,1401.94,595
+253,Shoes,Groceries,67587.07,166
+254,Mixer Grinder,Home,114098.57,61
+255,Yoga Mat,Home,74591.58,718
+256,Laptop,Fashion,21956.26,800
+257,Saree,Home,113465.37,105
+258,Pressure Cooker,Sports,33056.49,158
+259,Yoga Mat,Home,96507.03,1188
+260,Cricket Bat,Fashion,77783.24,92
+261,Laptop,Beauty,111022.76,254
+262,Kurta,Groceries,115914.34,171
+263,Yoga Mat,Electronics,49601.47,1008
+264,Saree,Beauty,90736.42,748
+265,Smart TV,Electronics,105247.38,17
+266,Yoga Mat,Beauty,11150.64,391
+267,Laptop,Groceries,51830.01,1187
+268,Rice Bag,Home,28251.58,797
+269,Notebook,Electronics,78359.19,842
+270,Samsung Phone,Electronics,102064.58,27
+271,Rice Bag,Groceries,24507.22,390
+272,Cricket Bat,Beauty,117176.27,505
+273,Samsung Phone,Fashion,87340.59,595
+274,Notebook,Groceries,61278.92,360
+275,Saree,Sports,61203.97,209
+276,Samsung Phone,Books,116337.5,619
+277,Samsung Phone,Electronics,88067.5,476
+278,Pressure Cooker,Beauty,8613.36,75
+279,Pressure Cooker,Fashion,119515.57,977
+280,Kurta,Sports,38125.14,780
+281,Saree,Electronics,40598.0,1312
+282,Mixer Grinder,Electronics,17648.71,1435
+283,Saree,Beauty,67920.06,1399
+284,Notebook,Books,88930.44,334
+285,Football,Beauty,110937.06,676
+286,Kurta,Electronics,5833.43,1006
+287,Face Wash,Fashion,40836.48,735
+288,Yoga Mat,Beauty,47316.21,1417
+289,Pressure Cooker,Beauty,84885.75,1028
+290,Yoga Mat,Home,70862.72,85
+291,Pressure Cooker,Fashion,119342.07,1047
+292,Boat Earbuds,Beauty,16863.85,186
+293,Laptop,Beauty,77986.69,933
+294,Laptop,Books,84062.89,848
+295,Yoga Mat,Beauty,14450.17,1185
+296,Rice Bag,Books,92528.55,1431
+297,Kurta,Groceries,45556.73,1386
+298,Smart TV,Groceries,114240.36,152
+299,Cricket Bat,Beauty,114739.15,567
+300,Football,Home,105254.0,1414
